@@ -9,7 +9,7 @@
 		<description>The Exact Online Client SDK provides a rich application framework and simplifies the interconnection with the Exact Online RESTful API</description>
 		<iconUrl>https://avatars0.githubusercontent.com/u/4112611?v=3&amp;s=200</iconUrl>
 		<projectUrl>https://github.com/exactonline/exactonline-api-dotnet-client</projectUrl>
-		<licenseUrl>https://raw.githubusercontent.com/exactonline/exactonline-api-dotnet-client/master/LICENSE.txt</licenseUrl>
+		<licenseUrl>https://raw.githubusercontent.com/assistance-online/exactonline-api-dotnet-client/master/LICENSE.txt</licenseUrl>
 		<copyright>Exact</copyright>
 		<tags>Exact Online Client SDK</tags>
 		<dependencies>
